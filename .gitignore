@@ -1,0 +1,16 @@
+# This repository holds documentation and scripts only.
+# Never commit files from the game or from dgVoodoo2.
+*.exe
+*.dll
+*.res
+*.avi
+*.dat
+*.cfg
+*.conf
+*.zip
+*.lnk
+
+# Monitor output can show the desktop and local paths.
+*.png
+*.log
+run*/
